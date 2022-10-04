@@ -1,6 +1,6 @@
 # templete-circuitpython
 
-'''py
+```python
 ## Instituto Tecnológico de Tijuana
     ##Depto de Sistemas y Computación
     ## Ing. En Sistemas Computacionales
@@ -13,4 +13,4 @@
     ## Objetivo del programa:
     ##   1.2 Hola Mundo en CircuitPython via nuestro SIMULADOR
     
-'''
+```
