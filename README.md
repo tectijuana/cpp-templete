@@ -1,3 +1,6 @@
+
+```python
+
 """.
  _____       _   _                 
  |  __ \     | | | |                
@@ -16,7 +19,6 @@ Templete a personalizar
         listas y salidas
 """
 
-```python
 ## Instituto Tecnológico de Tijuana
     ## Depto de Sistemas y Computación
     ## Ing. En Sistemas Computacionales
