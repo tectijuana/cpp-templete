@@ -22,12 +22,12 @@ Templete a personalizar
 ## Instituto Tecnológico de Tijuana
     ## Depto de Sistemas y Computación
     ## Ing. En Sistemas Computacionales
-    ## Basado en https://wokwi.com/projects/new/micropython-pi-pico
+    ## 25 Problemas a resolver en python
     ## Autor : ___________
-    ## Repositorio: https://wokwi.com/projects/________________
+    ## Repositorio: 
     ## Fecha de revisión:   99/99/99   
     ## Objetivo del programa:
-    ##   1.2 Hola Mundo en MicroPython via nuestro SIMULADOR
+    ##   
     
     ## TODO:
     ##
