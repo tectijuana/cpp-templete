@@ -1,18 +1,7 @@
-
-## Instituto Tecnológico de Tijuana
-    ## Depto de Sistemas y Computación
-    ## Ing. En Sistemas Computacionales
-    ## 25 Problemas a resolver en python
-    ## Autor : ___________
-    ## Repositorio: 
-    ## Fecha de revisión:   99/99/99   
-    ## Objetivo del programa:
-    ##   
-    
-    ## TODO:
-    ##
-    ## In Progress:
-    ##
-    ## Complete
-    
+_italic text_
+<!---
+  Una portada http://cooltext.com, recuerde que debe inscribirse si "llamará por referencia una imagen de Cooltext.com" de lo contrario la borran en 24 hrs y 
+  se ve la imagen en blanco con una cruz roja.
+--->
+***  bold text**
 ```
